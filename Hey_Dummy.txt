@@ -1,0 +1,11 @@
+1. open cmd prompt
+2. cd C:\Users\Chao\Desktop\Projects\Betterfy\electron-quick-start
+3. npm run start
+
+
+1. open cmd prompt
+2. cd C:\Users\Chao\Desktop\Projects\Betterfy\electron-quick-start
+3. npm run watch
+4. open another cmd prompt
+5. cd C:\Users\Chao\Desktop\Projects\Betterfy\electron-quick-start
+6. npm run start
